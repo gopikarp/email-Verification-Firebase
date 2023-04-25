@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941310574892",
+    "project_id": "emailbyme-c4dcf",
+    "storage_bucket": "emailbyme-c4dcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941310574892:android:5cdb30753898a201bdac89",
+        "android_client_info": {
+          "package_name": "com.example.emailbyme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941310574892-qd8m1atvfpn00devk3s17sodn1k1ev1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoZ8-L7RnOP4vrVSfupGQ52Oc57EFdcc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941310574892-qd8m1atvfpn00devk3s17sodn1k1ev1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
